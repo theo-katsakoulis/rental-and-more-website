@@ -1,0 +1,51 @@
+tours {
+    margin: 0px 15% 20px 15%;
+    background-color: #eeeeee;
+    height: 100%;
+}
+
+h4 {
+    //text-align: center;
+    font-weight: normal;
+    font-size: 14px !important;
+    line-height: 70%;
+    margin-left: 30px;
+}
+
+#details {
+    width: 75%;
+    margin-left: 12%;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: auto;
+}
+
+.title {
+    font-weight: lighter;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #333;
+    margin: 0px;
+}
+
+img.tours {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px; 
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+td {
+    text-align: left;
+}

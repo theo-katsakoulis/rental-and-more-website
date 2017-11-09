@@ -1,0 +1,6 @@
+Name , Category , Address , Phone_num , Num_1bed , Num_2bed , Num_3bed , Image
+
+Hotel Olympic,4,Σουρή 1,2103456789,7,10,9,images/rent/hotels/olympic.jpg
+Metropolitan Hotel,4,Λεωφόρος Συγγρού 385,2101111111,8,18,25,images/rent/hotels/metropolitan.jpg
+Divani Caravel Hotel,5,Βασιλέως Αλεξάνδρου 2,2102222222,14,22,18,images/rent/hotels/divani.jpg
+Herodion Hotel,5,Ερμού 148,2103333333,17,30,45,images/rent/hotels/herodion.jpg

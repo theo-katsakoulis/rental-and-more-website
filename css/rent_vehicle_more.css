@@ -1,0 +1,96 @@
+h4 {
+    //text-align: center;
+    font-weight: normal;
+    font-size: 14px !important;
+    line-height: 70%;
+    margin-left: 30px;
+}
+
+#details {
+    width: 75%;
+    margin-left: 12%;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: auto;
+}
+
+.info{
+    float: right;
+}
+
+.profile {
+    width: 70%;
+    height: 125px;
+    margin-left: 12%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.title {
+    font-weight: lighter;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #333;
+    margin: 0px;
+}
+
+.date {
+    width: 130px;
+}
+
+table {
+    margin-bottom: 30px;
+    border-collapse: collapse; 
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    padding: 10px;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+table#rent {
+    width: 60%;
+    float: right;
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    border-collapse: collapse; 
+}
+
+img.car {
+    width: 150px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+table#car {
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse; 
+}
+
+table#moto {
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse; 
+}

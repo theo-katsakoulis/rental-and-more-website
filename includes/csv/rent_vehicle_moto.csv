@@ -1,0 +1,7 @@
+Vehicle_rental_name , Moto_name , License_plate , Cc , Category ('A', 'B', 'C', 'D', '5') , One_day_price , Image
+
+Avis,Honda Innova,AXK 122,125,A,20,images/rent/vehicles/moto/innova.jpg
+Avis,Piaggio Fly,AXK 153,125,A,20,images/rent/vehicles/moto/fly.jpg
+Avis,Honda SH,AXK 233,150,B,25,images/rent/vehicles/moto/honda_sh.jpg
+Avis,Honda CB 500X,AXK 455,500,C,74,images/rent/vehicles/moto/honda_cb.jpg
+Avis,BMW F800GS,AXK 566,800,D,88,images/rent/vehicles/moto/bmw_f800.jpg

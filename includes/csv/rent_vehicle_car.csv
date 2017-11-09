@@ -1,0 +1,8 @@
+Vehicle_rental_name , Car_name , License_plate , Cc , Seats ('2', '3', '4', '5') , Category ('1', '2', '3', '4', '5') , One_day_price , Many_days_price , Image
+
+Avis,Nissan Micra,AXI 1122,1200,5,1,30,25 euro τη μέρα για ενοικίαση άνω των 5 ημερών,images/rent/vehicles/car/micra.jpg
+Avis,Nissan Micra,AXI 1153,1200,5,1,30,25 euro τη μέρα για ενοικίαση άνω των 5 ημερών,images/rent/vehicles/car/micra.jpg
+Avis,Fiat Panda,AXI 2233,1400,5,2,50,-,images/rent/vehicles/car/panda.jpg
+Avis,BMW 116,AXI 4455,2000,5,3,100,90 euro τη μέρα για ενοικίαση άνω των 3 ημερών,images/rent/vehicles/car/bmw_116.jpg
+Avis,JEEP,AXI 5566,2200,4,4,150,130 euro τη μέρα για ενοικίαση άνω των 5 ημερών,images/rent/vehicles/car/4x4.png
+Avis,Ford Mustang,AXI 5566,2500,5,5,200,-,images/rent/vehicles/car/cabrio.png

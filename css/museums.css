@@ -1,0 +1,29 @@
+table, td, tr {
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: 6%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+td, tr {
+    padding: 20px;
+    font-size: 15px;
+    font-family: Arial;
+    //background-color: white;
+}
+
+th {
+    padding: 20px;
+    font-size: 15px;
+    font-family: Arial;
+    background-color: white;
+}
+
+td {
+    background-color: white;
+}
+
+img.museums {
+    width: 300px;
+}

@@ -1,0 +1,14 @@
+Transport (air=αεροπλάνο , sea=πλοίο), Routes_from , Routes_to , Departure-Arrival , Scheduled_days , Price, Company
+
+sea,Πειραιάς,Αμοργός,06:45 - 15:10,Κάθε μέρα εκτός Δευτέρα,25,BLUE STAR FERRIES
+sea,Πειραιάς,Ηρακλειά,06:45 - 13:10,Κάθε μέρα,29,BLUE STAR FERRIES
+sea,Πειραιάς,Νάξος,06:45 - 11:55,Κάθε μέρα,25,BLUE STAR FERRIES
+sea,Πειραιάς,Χανιά,12:00 - 20:00,Κάθε μέρα,32,ANEK-SUPERFAST
+sea,Αμοργός,Πειραιάς,06:45 - 15:10,Κάθε μέρα εκτός Δευτέρα,25,BLUE STAR FERRIES
+sea,Ηρακλειά,Πειραιάς,06:45 - 13:10,Κάθε μέρα,29,BLUE STAR FERRIES
+sea,Νάξος,Πειραιάς,06:45 - 11:55,Κάθε μέρα,25,BLUE STAR FERRIES
+sea,Χανιά,Πειραιάς,12:00 - 20:00,Κάθε μέρα,32,ANEK-SUPERFAST
+air,Αθήνα,Μυτιλήνη,14:30 - 15:10,10-8-2016,50,AEGEAN
+air,Αθήνα,Ηράκλειο,12:10 - 13:10,14-8-2016,70,AEGEAN
+air,Νάξος,Αθήνα,11:00 - 11:55,12-8-2016,60,OLYMPIC AIR
+air,Χανιά,Αθήνα,19:00 - 20:00,13-8-2016,56,OLYMPIC AIR
